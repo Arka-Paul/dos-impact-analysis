@@ -69,16 +69,15 @@ The experiment produced several important observations:
 ```
 dos-impact-analysis/
 │
-├── README.md
-├── LICENSE
-├── .gitignore
-│
 ├── docs/
 │   ├── dos-lab-specification.pdf
 │   └── dos-impact-analysis-report.pdf
 │
 └── notes/
     └── ethical-use.md
+├── .gitignore
+├── LICENSE
+├── README.md
 ```
 
 ---
