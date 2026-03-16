@@ -83,6 +83,10 @@ dos-impact-analysis/
 
 ## Ethical Use Notice
 
+This repository is intended **strictly for academic study, defensive cybersecurity research, and authorised laboratory environments**. The experiments described here were conducted in a controlled setting using dedicated training infrastructure.
+
+The techniques discussed should **not be used against systems without explicit permission**.
+
 ---
 
 ## Author
