@@ -73,7 +73,7 @@ dos-impact-analysis/
 │   └── dos-impact-analysis-report.pdf
 │
 └── notes/
-    └── ethical-use.md
+│    └── ethical-use.md
 ├── .gitignore
 ├── LICENSE
 ├── README.md
