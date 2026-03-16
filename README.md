@@ -6,7 +6,6 @@
 ## Overview
 
  
-
 This repository documents a controlled cybersecurity laboratory exercise analysing the impact of Denial of Service (DoS) style traffic on a web server. The work was conducted as part of an academic cybersecurity lab environment to understand how different types of network traffic affect system performance and service availability.
 
 The project evaluates how various traffic generation techniques influence CPU utilisation, server responsiveness, and application-level behaviour.
